@@ -1,2 +1,3 @@
 # hello world program
-This is my hello world program
+msg = "Hello, World!"
+print(msg)
